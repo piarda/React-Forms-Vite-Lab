@@ -1,5 +1,27 @@
 # React Controlled Components Lab
 
+Here is a React-based shopping list application that allows users to:
+  - Search for items in real-time
+  - Filter items by category
+  - Add new items through a form
+  - Mark items as "in cart" and can "remove from cart"
+
+The application also contains a toggle for a dark/light mode.
+
+SETUP:
+After cloning the project from GitHub, be sure to install dependencies via:
+  npm install
+Then start the app via:
+  npm start
+And open http://localhost:5173/ in your browser.
+
+You can run a pre-written Jest tests via:
+  npm test
+
+Thank you and enjoy!
+
+
+
 ## Learning Goals
 
 - Implement a controlled form
